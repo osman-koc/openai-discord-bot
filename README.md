@@ -11,17 +11,16 @@ mkdir openai-discord-bot
 cd openai-discord-bot
 git clone https://github.com/osman-koc/openai-discord-bot.git
 ```
-
 #### 2) Copy env file
 
 ```
 cp .env.example .env
 ```
-
 #### 3) Create discord bot and OpenAI account
 
 - [Discord Developers](https://discord.com/developers)
 - [OpenAI API](https://openai.com/api)
+
 
 #### 4) Add discord bot to your server
 
@@ -34,7 +33,6 @@ CLIENT_TOKEN='{discord bot token}'
 OPENAI_API_KEY='{openai.com api key}'
 ROBOT_USER_ID='{discord bot user id}'
 ```
-
 #### 6) Run
 
 - Manuel
