@@ -47,3 +47,6 @@ npm run dev
 docker build -t openai-discord-bot .
 docker run -d openai-discord-bot
 ```
+
+### Example
+![DiscordScreenshot](img/discord-screenshot.jpg)
