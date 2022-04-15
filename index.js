@@ -11,8 +11,6 @@ client.on("ready", () => {
 });
 
 client.on("message", msg => {
-  console.log(msg);
-
   if (msg.author.bot) return false;
 
   if (msg.content.includes("@here") || msg.content.includes("@everyone") || msg.type == "REPLY") return false;

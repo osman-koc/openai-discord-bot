@@ -18,8 +18,6 @@ export async function getAnswer (question) {
             best_of: 1,
         });
     
-        console.log(completion);
-    
         if(completion.status != 200) {
             return "Sorry, I don't understand that.";
         }
