@@ -3,7 +3,6 @@ import { getAnswer } from "./api/generate.js";
 import Discord from "discord.js";
 
 dotenv.config();
-// const client = new Discord.Client();
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
 client.on("ready", () => {
