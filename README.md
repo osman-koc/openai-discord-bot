@@ -37,7 +37,13 @@ ROBOT_USER_ID='{discord bot user id}'
 
 6) Run
 
+- Manuel
 ```
 npm install
 npm run dev
+```
+- Docker
+```
+docker build -t openai-discord-bot .
+docker run -d openai-discord-bot
 ```
