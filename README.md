@@ -20,8 +20,8 @@ cp .env.example .env
 
 3) Create discord bot and OpenAI account
 
-https://discord.com/developers
-https://openai.com/api
+- [Discord Developers](https://discord.com/developers)
+- [OpenAI API](https://openai.com/api)
 
 4) Add discord bot to your server
 
