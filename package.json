@@ -1,6 +1,6 @@
 {
-  "name": "zoo-discord-bot",
-  "version": "0.0.1",
+  "name": "openai-discord-bot",
+  "version": "1.0.0",
   "description": "OpenAI discord bot",
   "main": "index.js",
   "type": "module",
@@ -10,20 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/osman-koc/zoo-discord-bot.git"
+    "url": "git+https://github.com/osman-koc/openai-discord-bot.git"
   },
   "keywords": [
-    "zoo",
+    "openai",
     "discord",
-    "bot",
-    "openai"
+    "bot"
   ],
   "author": "osmankoc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/osman-koc/zoo-discord-bot/issues"
+    "url": "https://github.com/osman-koc/openai-discord-bot/issues"
   },
-  "homepage": "https://github.com/osman-koc/zoo-discord-bot#readme",
+  "homepage": "https://github.com/osman-koc/openai-discord-bot#readme",
   "dependencies": {
     "axios": "^0.26.1",
     "discord.js": "^12.5.3",
