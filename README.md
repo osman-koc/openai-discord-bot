@@ -23,7 +23,11 @@ cp .env.example .env
 https://discord.com/developers
 https://openai.com/api
 
-4) Fil keys in env
+4) Add discord bot to your server
+
+'[How to build a discord bot with Node JS?](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js)'
+
+5) Fil keys in env
 
 ```
 CLIENT_TOKEN='{discord bot token}'
@@ -31,7 +35,7 @@ OPENAI_API_KEY='{openai.com api key}'
 ROBOT_USER_ID='{discord bot user id}'
 ```
 
-5) Run
+6) Run
 
 ```
 npm install
