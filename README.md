@@ -2,7 +2,7 @@
 
 It is a Discord bot that answers questions using the OpenAI API developed with the GPT-3 artificial intelligence algorithm.
 
-# Getting Started
+## Getting Started
 
 1) Clone repository
 
