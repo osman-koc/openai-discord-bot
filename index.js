@@ -25,7 +25,8 @@ client.on("message", msg => {
 
     getAnswer(question).then(result => {
       if (result && result.trim() !== '') {
-        msg.channel.send(result);
+        //msg.channel.send(result);
+        msg.reply(result);
       }
     });
   } else {
