@@ -20,7 +20,7 @@ client.on("message", msg => {
 
   if (msg.mentions.has(client.user.id) || msg.content.toString().includes(process.env.ROBOT_USER_ID)) {
 
-    msg.channel.send("I'm thinking...");
+    //msg.channel.send("I'm thinking...");
     var question = msg.content.replace(client.user.id, "").replace("<@> ", "").trim();
 
     getAnswer(question).then(result => {

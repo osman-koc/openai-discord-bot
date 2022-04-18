@@ -1,13 +1,13 @@
 {
   "name": "openai-discord-bot",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "OpenAI discord bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "dev": "nodemon index.js",
+    "dev": "node index.js",
     "docker": "docker build -t openai-discord-bot . && docker run -d openai-discord-bot"
   },
   "repository": {
