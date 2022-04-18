@@ -1,6 +1,6 @@
 {
   "name": "openai-discord-bot",
-  "version": "1.4.2",
+  "version": "1.4.4",
   "description": "OpenAI discord bot",
   "main": "index.js",
   "type": "module",
