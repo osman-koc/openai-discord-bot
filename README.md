@@ -25,7 +25,7 @@ cp .env.example .env
 #### 4) Add discord bot to your server
 
 - [How to build a discord bot with Node JS?](https://www.digitalocean.com/community/tutorials/how-to-build-a-discord-bot-with-node-js)
-- [Yapay Zeka Destekli Discord Botu (NodeJS)](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs)
+- [Steps to Create an AI Powered Discord Bot](https://osmkoc.com/yapay-zeka-destekli-discord-botu-nodejs)
 
 #### 5) Fil keys in env
 
